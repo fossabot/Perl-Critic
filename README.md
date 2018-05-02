@@ -1,6 +1,7 @@
 # BUILD STATUS
 
 * Linux [![Travis Status](https://travis-ci.org/Perl-Critic/Perl-Critic.svg?branch=dev)](https://travis-ci.org/Perl-Critic/Perl-Critic)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPerl-Critic%2FPerl-Critic.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FPerl-Critic%2FPerl-Critic?ref=badge_shield)
 * Windows [![Build Status](https://ci.appveyor.com/api/projects/status/github/Perl-Critic/Perl-Critic?branch=dev)](https://ci.appveyor.com/project/petdance/perl-critic/branch/dev)
 * [CPAN Testers](http://cpantesters.org/distro/P/Perl-Critic.html)
 # NAME
@@ -705,3 +706,7 @@ Copyright (c) 2005-2013 Imaginative Software Systems.  All rights reserved.
 This program is free software; you can redistribute it and/or modify it under
 the same terms as Perl itself.  The full text of this license can be found in
 the LICENSE file included with this module.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPerl-Critic%2FPerl-Critic.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPerl-Critic%2FPerl-Critic?ref=badge_large)
